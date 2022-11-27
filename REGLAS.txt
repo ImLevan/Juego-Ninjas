@@ -1,0 +1,7 @@
+REGLAS:
+
+Es un video juego en el cual Sakura debe entregar los pedidos  a las casas marcadas con una flecha, sin perder la vida a manos de los ninjas enemigos. 
+
+Sakura podrá ganar el juego cuando llegue a los 150 puntos, por cada pedido entregado a la casa correspondiente sumará 5 puntos. 
+
+Si un ninja toca a sakura se pierde el juego, para esto el usuario cuenta con un poder que elimina al ninja que choque, dicho poder tiene un tiempo antes de ser usado nuevamente de aproximadamente 15 segundos, y si este poder no acierta a ningún objetivo, puede volver a ser usado.
