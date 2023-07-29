@@ -16,7 +16,7 @@ Naruto Delivery Challenge es un emocionante juego desarrollado en Java, basado e
 
 ## Capturas de pantalla
 
-![Screenshot 1](https://example.com/path/to/screenshot1.png)
+![Screenshot 1](src/JuegoNinjas.png)
 
 ## Instalación
 
